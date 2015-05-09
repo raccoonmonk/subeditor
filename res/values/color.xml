@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="theme_base">#FF1E90FF</color>
+	<color name="theme_base_fade">#551E90FF</color>
+    <color name="theme_orange">#FFFFBB33</color>
+    <color name="theme_orange_select">#55FFBB33</color>
+    <color name="def_background">#FFFFFFFF</color>
+    <color name="font_color">#FF000000</color>
+    <color name="fav">#eef</color>
+
+</resources>

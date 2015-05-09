@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/save_as_cancel"
+        android:orderInCategory="1"
+        android:showAsAction="ifRoom|withText|collapseActionView"
+        android:icon="@drawable/cancel"
+        android:title="@string/cancel"/>
+    <item
+        android:id="@+id/save_as_up"
+        android:orderInCategory="2"
+        android:showAsAction="ifRoom|withText|collapseActionView"
+        android:icon="@drawable/up"
+        android:title="@string/up"/>
+    <item
+        android:id="@+id/save_as_save"
+        android:orderInCategory="3"
+        android:showAsAction="always|withText|collapseActionView"
+        android:icon="@drawable/save"
+        android:title="@string/sub_save"/>
+
+</menu>

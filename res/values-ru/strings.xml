@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">SubEditor</string>
+    <string name="up">Вверх</string>
+    <string name="sub_close">Закрыть</string>
+    <string name="open_sub">Открыть Файл</string>
+    <string name="rec_goto">Перейти</string>
+    <string name="sub_save">Сохранить</string>
+    <string name="sub_save_as">Сохранить Как</string>
+    <string name="edit_rec">Редактировать запись</string>
+    <string name="cancel">Отмена</string>
+    <string name="apply">Применить</string>
+    <string name="next">Далее</string>
+    <string name="go">Перейти</string>
+    <string name="def_pos">0/0</string>
+    
+    <string name="dialog_title_save_or_not">Файл был изменен</string>
+    <string name="dialog_message_save_or_not">Сохранить изменения?</string>
+    <string name="dont_save">Не сохранять</string>
+    <string name="save">Сохранить</string>
+    <string name="cant_save">Невозможно сохранить файл в этой директории</string>
+    
+    <string name="context_del">Удалить запись</string>
+    <string name="context_add_above">Вставить запись выше</string>
+    <string name="context_add_below">Вставить запись ниже</string>
+    <string name="context_shift_time">Сместить время</string>
+    <string name="time_shift">Смещение времени</string>
+    <string name="time_plus">Время + Смещение</string>
+	<string name="time_minus">Время - Смещение</string>
+
+</resources>

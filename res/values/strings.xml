@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SubEditor</string>
+    <string name="undefined_string">Undefined</string>
+    <string name="undefined_num">00</string>
+    <string name="up">Up</string>
+    
+    <string name="sub_close">Close</string>
+    <string name="open_sub">Open File</string>
+    <string name="rec_goto">GoTo</string>
+    <string name="sub_save">Save</string>
+    <string name="sub_save_as">Save As</string>
+    <string name="edit_rec">Edit record</string>
+    
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+    <string name="next">Next</string>
+    <string name="go">Go</string>
+    <string name="def_pos">0/0</string>
+    
+    <string name="dialog_title_save_or_not">File has been changed</string>
+    <string name="dialog_message_save_or_not">Save changes?</string>
+    <string name="dont_save">Don\'t save</string>
+    <string name="save">Save</string>
+    <string name="cant_save">Unable to save file in this directory</string>
+    
+    <string name="context_del">Delete record</string>
+    <string name="context_add_above">Insert record above</string>
+    <string name="context_add_below">Insert record below</string>
+    <string name="context_shift_time">Shift time</string>
+    <string name="time_shift">Time Shift</string>
+    <string name="time_plus">Time + Offset</string>
+	<string name="time_minus">Time - Offset</string>
+	
+	<string name="open_trans">Open Translation</string>
+	<string name="mode_edit">Editor Mode</string>
+	<string name="mode_trans">Translator Mode</string>
+    
+</resources>
